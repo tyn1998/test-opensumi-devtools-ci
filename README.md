@@ -1,4 +1,4 @@
-# OpenSumi DevTools
+# OpenSumi DevTools (foo bar)
 
 A Chrome DevTools Extension for any [OpenSumi](https://github.com/opensumi/core) based IDE.
 
