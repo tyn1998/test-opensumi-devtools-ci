@@ -1,4 +1,13 @@
-# 1.2.0 (2022-08-31)
+## [1.2.1](https://github.com/tyn1998/test-opensumi-devtools-ci/compare/v1.2.0...v1.2.1) (2022-08-31)
+
+
+### Bug Fixes
+
+* CCA no end of line ([#1](https://github.com/tyn1998/test-opensumi-devtools-ci/issues/1)) ([b448bca](https://github.com/tyn1998/test-opensumi-devtools-ci/commit/b448bcaac8bd88f6c9a40a04d9242ddc16678bc7))
+
+
+
+# [1.2.0](https://github.com/tyn1998/test-opensumi-devtools-ci/compare/a250e665efcb75375b8a5f4962f123551e013264...v1.2.0) (2022-08-31)
 
 
 ### Bug Fixes
